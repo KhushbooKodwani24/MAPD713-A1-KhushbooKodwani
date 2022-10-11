@@ -1,0 +1,13 @@
+{
+    "name": "ImagesAPI",
+    "version": "1.0.0",
+    "description": "REST API - Images",
+    "dependencies": {
+        "restify": "4.1.1",
+		"save": "2.3.0"
+
+    },
+    "author": "Khushboo_Kodwani",
+	"private": true,
+	"main": "index.js"
+}
